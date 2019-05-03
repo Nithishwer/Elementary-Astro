@@ -1,2 +1,3 @@
 # Elementary-Astro
-Scripts for elementary Astronomy
+
+Some useful scripts for elementary astronomical techniques
